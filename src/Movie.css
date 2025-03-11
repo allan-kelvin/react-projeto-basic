@@ -1,0 +1,29 @@
+li{
+    list-style: none;
+}
+
+#cardMovie{
+    width: 400px;
+    border: 1px solid #ccc;
+    padding: 30px;
+    margin-bottom: 10px;
+}
+
+#elenco{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-top: 10px;
+    border-bottom: 1px solid #ccc;
+    font-size: 16px;
+    line-height: 1.5;
+}
+
+#ul{
+    list-style: none;
+    display: flex;
+    gap: 10px;
+    font-size: 16px;
+    line-height: 1.5;
+
+}
